@@ -1,7 +1,7 @@
 <h1 align="center">Greetings,😎 I am, Shiwam Shorya Sharma</h1>
 <h3 align="center">Freelancer | Mechatronics Engineering Gradute | Programming | Creative | Analytical | Forward-thinking| Problem-solving |⚙️🚀</h3>
 
-<img align="right" alt="animecoding" width="420" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="animecoding" width="420" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazuha-alice&label=Profile%20views&color=0e75b6&style=flat" alt="kazuha-alice" /> </p>
 
@@ -15,12 +15,16 @@
 
 - ⚡ Fun fact **Omnivert**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/quantumshiwam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/quantumshiwam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shiwam-shorya-sharma-b60b691b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shiwam-shorya-sharma-b60b691b7/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/shiwamshoryasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shiwamshoryasharma" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@shiwamshoryasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@shiwamshoryasharma" height="30" width="40" /></a>
+<a href="https://medium.com/@shiwamshoryasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shiwamshoryasharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
