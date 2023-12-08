@@ -1,7 +1,7 @@
 <h1 align="center">Greetings,😎 I am, Shiwam Shorya Sharma</h1>
 <h3 align="center">Freelancer | Mechatronics Engineering Gradute | Programming | Creative | Analytical | Forward-thinking| Problem-solving |⚙️🚀</h3>
 
-<img align="right" alt="animecoding" width="420" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpreetuuppp&psig=AOvVaw2NyvFvT-ML0Vs11msa2ES7&ust=1702140790103000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD3tt-mgIMDFQAAAAAdAAAAABAy">
+<img align="right" alt="animecoding" width="420" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazuha-alice&label=Profile%20views&color=0e75b6&style=flat" alt="kazuha-alice" /> </p>
 
