@@ -169,7 +169,7 @@ A proper system should have separated layers for planning, execution, monitoring
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shiwam%20Shorya%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiwam-shorya-sharma-b60b691b7/)
-[![X](https://img.shields.io/badge/X-@QuantumnShivam-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/QuantumnShivam)
+[![X](https://img.shields.io/badge/X-@QuantumnShivam-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/QuantumShiwam)
 [![GitHub](https://img.shields.io/badge/GitHub-kazuha--alice-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kazuha-alice)
 
 </div>
@@ -183,3 +183,7 @@ A proper system should have separated layers for planning, execution, monitoring
 <img src="https://komarev.com/ghpvc/?username=kazuha-alice&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
 
 </div>
+
+
+---
+.... STILL UPDATING ....
