@@ -1,196 +1,201 @@
 <!-- GitHub Profile README for kazuha-alice -->
-<!-- Save this as README.md inside a repo named exactly: kazuha-alice -->
 
 <div align="center">
 
-# Hi, I'm Shiwam Shorya Sharma 👋
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXIzbWE0aDd1Y2QxbWVvaGpsbW43ZjVhNjIxazJ5NXEzanowM2NoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kcKpORRzy95ofrqAEp/giphy.gif" width="420" alt="Anime coding gif" />
 
-### Mechatronics Engineer • Autonomous Systems Builder • Digital Twin Developer
+# Hi, I'm Shiwam Shorya Sharma
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Autonomous+Factories+%26+Digital+Twins;ROS+2+%7C+Isaac+Sim+%7C+AI+Task+Scheduling+%7C+Cloud+Edge;Python+%7C+ML+%7C+React+%7C+AWS+%7C+Robotics" alt="Typing SVG" />
+### Robotics + Simulation | Full-Stack + Cloud | ML/NLP
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&center=true&vCenter=true&width=850&lines=I+build+practical+software+systems%2C+not+just+UI+screens.;Learning+fast+across+web%2C+cloud%2C+robotics%2C+and+AI.;Clean+architecture+%2B+debuggable+code+%2B+real+project+execution." alt="Typing SVG" />
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Anime coding gif" />
-
-## 🚀 About Me
-
-I build **autonomous systems**, **digital twin factories**, and **AI-driven industrial workflows** that connect simulation, robotics, cloud, and real-time dashboards.
-
-My work focuses on turning complex factory logic into practical systems:
-
-- 🤖 **Robotics & Automation:** ROS 2, MoveIt2, robot motion flow, AMR logic, machine-level control
-- 🏭 **Digital Twin:** NVIDIA Isaac Sim / Isaac Lab, USD workflows, factory simulation, WebRTC streaming
-- 🧠 **AI Scheduling:** LLM-assisted planning, task routing, GA/PPO/ACO/PSO-style scheduling concepts
-- ☁️ **Cloud + Edge:** AWS, WebSocket APIs, S3 sync, Lambda, edge execution pipelines
-- 💻 **Full Stack:** React, JavaScript, TypeScript, Flask, dashboards, admin panels, telemetry UI
-- 📊 **Data & ML:** Python, Pandas, Scikit-learn, NLP, sentiment analysis, prediction systems
-
-> **Method:** Build → Simulate → Measure → Debug → Deploy → Improve.
-
----
-
-## 🧠 Engineering Method
-
-I do not only build UI screens. I design the complete execution layer behind them.
-
-| Layer | What I Focus On |
-|---|---|
-| **Planning** | Convert high-level goals into executable task sequences |
-| **Simulation** | Validate robot, CNC, 3D printer, and AMR behavior before real execution |
-| **Control** | Motion flow, service/action calls, state machines, and error recovery |
-| **Telemetry** | Live robot status, Modbus data, logs, latency, task progress, and debugging views |
-| **Cloud Sync** | Edge-to-cloud data movement using WebSocket, REST, S3, Lambda, and database layers |
-| **Dashboard** | Clean operator UI for monitoring, execution, history, and admin-level visibility |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,vite,nodejs,flask,html,css,mysql,sqlite,aws,gcp,azure,docker,linux,ubuntu,bash,powershell,git,github,arduino,raspberrypi,blender,unity,unreal" alt="Tech stack icons" />
+[![GitHub](https://img.shields.io/badge/GitHub-kazuha--alice-181717?style=for-the-badge&logo=github)](https://github.com/kazuha-alice)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shiwam%20Shorya%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiwam-shorya-sharma-b60b691b7/)
+[![X](https://img.shields.io/badge/X-@QuantumShiwam-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/QuantumShiwam)
 
 </div>
 
-### Core Knowledge Areas
+---
+
+## About Me
+
+I am a developer who likes building **adaptive, real-world software systems** across web apps, robotics simulation, cloud workflows, and machine-learning projects.
+
+My profile is not limited to one stack. I work across multiple layers:
+
+- **Frontend:** dashboards, admin panels, monitoring UI, responsive web apps
+- **Backend:** Flask/FastAPI-style APIs, database logic, authentication, service integration
+- **Robotics & Simulation:** ROS 2 concepts, URDF, MoveIt2 workflows, NVIDIA Isaac Sim / Isaac Lab, USD-based digital-twin scenes
+- **Cloud & Edge:** AWS, WebSocket/REST APIs, S3-style sync, Lambda-style serverless workflows, EC2 deployment concepts
+- **Data & ML:** Python, Pandas, Scikit-learn, NLP, sentiment analysis, prediction models
+- **Systems:** Windows, Linux, WSL2, Docker, Git, PowerShell, Bash
+
+> My main approach: **build small → test fast → debug deeply → improve architecture → document clearly.**
+
+---
+
+## Current Focus
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFpZjB5eWd6dmNuZngzemc1YnMzb2E5c3pneTJrdW1pMnllaHhpcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5NE2L7vdWZ9V39Sjq8/giphy.gif" width="280" alt="Anime developer gif" />
+
+I am currently focused on building stronger project depth in:
 
 ```txt
-Robotics        : ROS 2, MoveIt2, URDF, TF, Joint Trajectories, AMR logic
-Simulation      : NVIDIA Isaac Sim, Isaac Lab, USD, WebRTC Streaming, Digital Twin
-AI / ML         : Python, Pandas, NumPy, Scikit-learn, NLP, Sentiment Analysis
-Cloud / Edge    : AWS, API Gateway, Lambda, S3, EC2, WebSocket, REST APIs
-Frontend        : React, Vite, JavaScript, TypeScript, HTML, CSS, Admin Dashboards
-Backend         : Flask, FastAPI concepts, MySQL, SQLite, API design
-3D / Design     : Blender, CAD-style workflows, Unreal Engine, Unity
-Systems         : Linux, Windows, WSL2, Docker, PowerShell, Bash, Git
+Full-stack development        React / JavaScript / TypeScript / Flask / MySQL
+Robotics tooling              URDF / ROS 2 concepts / MoveIt2 / robot workflow design
+Digital twin simulation       NVIDIA Isaac Sim / Isaac Lab / USD / WebRTC streaming
+Cloud-connected systems       AWS / WebSocket APIs / S3 / Lambda / EC2
+Machine learning              Python / Pandas / Scikit-learn / NLP / analytics
+System-level debugging        Linux / Windows / WSL2 / Docker / logs / automation scripts
+```
+
+I prefer projects where software connects with something practical: simulation, machines, data, control logic, dashboards, or automation.
+
+<br clear="right" />
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql,cpp" alt="Languages" />
+</p>
+
+### Web / App Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,flask,fastapi,electron" alt="Web stack" />
+</p>
+
+### Cloud / DevOps / Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,ubuntu,windows,powershell,bash,git,github" alt="Cloud and systems" />
+</p>
+
+### Data / ML / Simulation / 3D
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,blender,unity,unreal" alt="Data simulation 3D" />
+</p>
+
+```txt
+Also working with: Pandas, NumPy, Scikit-learn, Matplotlib, MySQL, SQLite,
+ROS 2 concepts, URDF, MoveIt2 workflows, NVIDIA Isaac Sim, Isaac Lab, USD,
+WebRTC streaming, REST APIs, WebSocket APIs, Raspberry Pi / Arduino concepts.
 ```
 
 ---
 
-## 🏭 Current Focus
+## How I Work
 
-```yaml
-project_direction: Autonomous Factory + Digital Twin
-simulation: NVIDIA Isaac Sim / Isaac Lab
-robotics: ROS 2 + MoveIt2 + industrial robot workflows
-cloud: AWS WebSocket + S3 + Lambda + EC2
-frontend: React/Vite dashboard for operators and admins
-ai_layer: LLM-assisted task planning and execution routing
-```
-
-I am working on systems where a user can submit a factory-level command and the system can:
-
-1. Understand the task intent  
-2. Plan the execution sequence  
-3. Assign machines and robots  
-4. Simulate or execute the workflow  
-5. Stream live status to the dashboard  
-6. Store logs, task history, and analytics  
+| Area | My Method |
+|---|---|
+| **Planning** | Break the problem into modules before writing code. |
+| **Architecture** | Keep UI, backend, database, simulation, and execution logic separated. |
+| **Debugging** | Use logs, small test cases, reproducible steps, and versioned fixes. |
+| **Learning** | Build projects first, then improve the theory and tooling around them. |
+| **Documentation** | Write README files, setup steps, known issues, and future roadmap clearly. |
+| **Delivery** | Prefer working prototypes that can be tested over only theoretical designs. |
 
 ---
 
-## 📌 Featured Projects
+## Project Experience
 
-### 🔹 [Autonomous-Factory](https://github.com/kazuha-alice/Autonomous-Factory-4.git)
-Digital Twin Factory leveraging Agentic AI and advanced IoT for real-time monitoring, autonomous control, and predictive optimization—validated through NVIDIA Isaac-based simulation for scalable, test-first manufacturing systems.
+### Robotics / Digital Twin / Simulation
 
-**Focus:** Digital Twin • Factory Automation • Cloud Sync • JavaScript • Simulation UI
+- Building digital-twin style workflows involving **robots, CNC, 3D printer, AMR logic, dashboards, and cloud sync**.
+- Working with **NVIDIA Isaac Sim / Isaac Lab**, USD scenes, WebRTC streaming, and simulation-first validation.
+- Exploring modular execution layers instead of putting every machine workflow into one large script or graph.
 
----
+### Full-Stack Development
 
-### 🔹 [Cloud-Enabled-Digital-Twin](https://github.com/kazuha-alice/Cloud-Enabled-Digital-Twin)
-Digital Twin Autonomous Factory test build with cloud-enabled execution logic, machine flow, and dashboard concepts.
+- Building dashboards and admin panels with **HTML, CSS, JavaScript, React/Vite**, and backend services.
+- Creating authentication, profile forms, reports, health/diet recommendation pages, and analytics-style UI.
+- Connecting frontend flows with databases and API layers.
 
-**Focus:** Digital Twin • Factory Automation • Cloud Sync • JavaScript • Simulation UI
+### Machine Learning / Data Projects
 
----
-
-### 🔹 [URDF-BUILDER-2.0](https://github.com/kazuha-alice/URDF-BUILDER-2.0)
-Visual URDF robot builder for ROS, Gazebo, and NVIDIA Isaac Sim. Designed for creating mobile robots, manipulators, sensors, and controllers with validation and export logic.
-
-**Focus:** ROS • URDF • Isaac Sim • Robot Modeling • TypeScript
+- Working on ML/NLP projects using **Python, Pandas, Scikit-learn**, and text-processing pipelines.
+- Experience with sentiment analysis, review classification, prediction systems, and exploratory data analysis.
 
 ---
 
-### 🔹 [ML_NLP_RestaurantReview_Python](https://github.com/kazuha-alice/ML_NLP_RestaurantReview_Python)
-Machine learning and NLP project for restaurant review analysis.
+## Featured Repositories
 
-**Focus:** Python • NLP • Machine Learning • Text Classification
+<div align="center">
+
+<a href="https://github.com/kazuha-alice/URDF-BUILDER-2.0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=URDF-BUILDER-2.0&theme=tokyonight&hide_border=true" alt="URDF-BUILDER-2.0" />
+</a>
+<a href="https://github.com/kazuha-alice/Cloud-Enabled-Digital-Twin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=Cloud-Enabled-Digital-Twin&theme=tokyonight&hide_border=true" alt="Cloud-Enabled-Digital-Twin" />
+</a>
+
+<a href="https://github.com/kazuha-alice/ML_NLP_RestaurantReview_Python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=ML_NLP_RestaurantReview_Python&theme=tokyonight&hide_border=true" alt="ML_NLP_RestaurantReview_Python" />
+</a>
+<a href="https://github.com/kazuha-alice/WeatherAPP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=WeatherAPP&theme=tokyonight&hide_border=true" alt="WeatherAPP" />
+</a>
+
+</div>
 
 ---
 
-### 🔹 [WeatherAPP](https://github.com/kazuha-alice/WeatherAPP)
-Weather application project using Python / Flutter-style app concepts.
-
-**Focus:** App Development • Python • UI Logic
-
----
-
-## ⚙️ System Design Mindset
+## Developer Mindset
 
 ```mermaid
 flowchart LR
-    A[User Command] --> B[AI Planner]
-    B --> C[Task Scheduler]
-    C --> D[Simulation Layer]
-    D --> E[Robot / Machine Control]
-    E --> F[Telemetry + Logs]
-    F --> G[Cloud Sync]
-    G --> H[Operator Dashboard]
+    A[Understand Requirement] --> B[Design Small Modules]
+    B --> C[Build Prototype]
+    C --> D[Test + Debug]
+    D --> E[Refactor Architecture]
+    E --> F[Document + Improve]
 ```
 
-I prefer **modular architecture** over one large script.  
-A proper system should have separated layers for planning, execution, monitoring, logs, recovery, and UI.
+I try to avoid over-engineering at the beginning. First I make the system work, then I clean the architecture, separate responsibilities, improve reliability, and document what matters.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kazuha-alice&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=kazuha-alice&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kazuha-alice&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuha-alice&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuha-alice&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<br />
+<br />
+
+<img src="https://streak-stats.demolab.com?user=kazuha-alice&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## 🧩 What I Like Building
+## What I Like Building
 
-- Autonomous factory dashboards
-- ROS 2 and robot-control workflows
-- Isaac Sim digital twin scenes
-- Cloud-to-edge industrial pipelines
-- AI-assisted task planning systems
-- ML/NLP analysis projects
-- Admin dashboards and monitoring panels
-- Developer tools that reduce repetitive engineering work
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shiwam%20Shorya%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiwam-shorya-sharma-b60b691b7/)
-[![X](https://img.shields.io/badge/X-@QuantumnShivam-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/QuantumShiwam)
-[![GitHub](https://img.shields.io/badge/GitHub-kazuha--alice-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kazuha-alice)
-
-</div>
+```txt
+01. Clean frontend dashboards
+02. Backend APIs and database-connected systems
+03. Robotics and simulation tooling
+04. Digital twin workflows
+05. Cloud-to-edge execution pipelines
+06. ML/NLP analysis projects
+07. Automation scripts and developer tools
+08. Systems that are practical, testable, and easy to debug
+```
 
 ---
 
 <div align="center">
 
-### ⚡ Build systems that move, think, measure, and improve.
+### Open to learning, building, debugging, and improving real software systems.
 
-<img src="https://komarev.com/ghpvc/?username=kazuha-alice&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=kazuha-alice&style=for-the-badge&color=blueviolet" alt="Profile views" />
 
 </div>
-
-
----
-.... STILL UPDATING ....
