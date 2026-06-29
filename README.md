@@ -126,23 +126,7 @@ WebRTC streaming, REST APIs, WebSocket APIs, Raspberry Pi / Arduino concepts.
 
 ## Featured Repositories
 
-<div align="center">
-
-<a href="https://github.com/kazuha-alice/URDF-BUILDER-2.0">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=URDF-BUILDER-2.0&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/kazuha-alice/Cloud-Enabled-Digital-Twin">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=Cloud-Enabled-Digital-Twin&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/kazuha-alice/ML_NLP_RestaurantReview_Python">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=ML_NLP_RestaurantReview_Python&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/kazuha-alice/WeatherAPP">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=WeatherAPP&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
+> Still updating...
 
 
 ---
@@ -159,22 +143,6 @@ flowchart LR
 ```
 
 I try to avoid over-engineering at the beginning. First I make the system work, then I clean the architecture, separate responsibilities, improve reliability, and document what matters.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kazuha-alice&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuha-alice&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=kazuha-alice&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
 
 ---
 
