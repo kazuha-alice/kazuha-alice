@@ -129,20 +129,21 @@ WebRTC streaming, REST APIs, WebSocket APIs, Raspberry Pi / Arduino concepts.
 <div align="center">
 
 <a href="https://github.com/kazuha-alice/URDF-BUILDER-2.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=URDF-BUILDER-2.0&theme=tokyonight&hide_border=true" alt="URDF-BUILDER-2.0" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=URDF-BUILDER-2.0&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/kazuha-alice/Cloud-Enabled-Digital-Twin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=Cloud-Enabled-Digital-Twin&theme=tokyonight&hide_border=true" alt="Cloud-Enabled-Digital-Twin" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=Cloud-Enabled-Digital-Twin&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/kazuha-alice/ML_NLP_RestaurantReview_Python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=ML_NLP_RestaurantReview_Python&theme=tokyonight&hide_border=true" alt="ML_NLP_RestaurantReview_Python" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=ML_NLP_RestaurantReview_Python&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/kazuha-alice/WeatherAPP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=WeatherAPP&theme=tokyonight&hide_border=true" alt="WeatherAPP" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuha-alice&repo=WeatherAPP&theme=github_dark&hide_border=true" />
 </a>
 
 </div>
+
 
 ---
 
@@ -150,11 +151,11 @@ WebRTC streaming, REST APIs, WebSocket APIs, Raspberry Pi / Arduino concepts.
 
 ```mermaid
 flowchart LR
-    A[Understand Requirement] --> B[Design Small Modules]
-    B --> C[Build Prototype]
-    C --> D[Test + Debug]
+    A[Understand Requirement] --> B[Break Into Small Modules]
+    B --> C[Build Working Prototype]
+    C --> D[Test and Debug]
     D --> E[Refactor Architecture]
-    E --> F[Document + Improve]
+    E --> F[Document and Improve]
 ```
 
 I try to avoid over-engineering at the beginning. First I make the system work, then I clean the architecture, separate responsibilities, improve reliability, and document what matters.
