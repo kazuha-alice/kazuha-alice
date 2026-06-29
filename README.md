@@ -92,6 +92,13 @@ I am working on systems where a user can submit a factory-level command and the 
 
 ## 📌 Featured Projects
 
+### 🔹 [Autonomous-Factory](https://github.com/kazuha-alice/Autonomous-Factory-4.git)
+Digital Twin Factory leveraging Agentic AI and advanced IoT for real-time monitoring, autonomous control, and predictive optimization—validated through NVIDIA Isaac-based simulation for scalable, test-first manufacturing systems.
+
+**Focus:** Digital Twin • Factory Automation • Cloud Sync • JavaScript • Simulation UI
+
+---
+
 ### 🔹 [Cloud-Enabled-Digital-Twin](https://github.com/kazuha-alice/Cloud-Enabled-Digital-Twin)
 Digital Twin Autonomous Factory test build with cloud-enabled execution logic, machine flow, and dashboard concepts.
 
